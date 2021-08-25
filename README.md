@@ -33,3 +33,57 @@ Upon successful completion of this course, students will be able to:
 1. examine the ethics of conducting data science analyses responsibly.
 1. understand the role of data in our society and explain how to use data to answer questions.
 
+## Assessment
+
+| Item           | Weight | Frequency       |
+|----------------|--------|-----------------|
+| Learning Logs  | 10%    | Weekly          |
+| Labs           | 30%    | Weekly          |
+| Project        | 30%    | Weekly          |
+| Tests          | 30%    | Bi-weekly       |
+| ~~Final Exam~~ | ~~0%~~ | ~~Exam Period~~ |
+
+N.B. I would like to petition for this course not to have a final exam, as it does not make sense pedagogically for this type of course. I would prefer to distribute the Final Exam weighting to Labs, and the project as shown above.
+
+### Passing Criteria
+
+All students must satisfy ALL conditions to pass the course:
+    1. Pass the Labs with an average grade of at least 50%, with no more than 3 missed labs.
+    1. Pass the Tests with an average grade of at least 50%.
+    1. Pass the Project with a grade of at least 40%.
+
+If a student does not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
+
+## Textbook
+
+Portions of the following (open source) textbooks will be assigned as reading:
+
+- [Python Data Science Handbook, by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python for Data Analysis, by Wes McKinney](https://github.com/wesm/pydata-book)
+
+Eventually, an open textbook will be developed using open resources.
+
+
+## Schedule
+
+| Wk | Starting | Topics                            | Project | Lab | Learning Logs | Tests  |
+|----|----------|-----------------------------------|---------|-----|---------------|--------|
+| 1  | Week 1   | GitHub, Terminal, and Jupyter Lab |         |     | LL 1          |        |
+| 2  | Week 2   | Programming in Python I           |         | L1  | LL 2          | Test 1 |
+| 3  | Week 3   | Programming in Python II          | PM1     | L2  | LL 3          |        |
+| 4  | Week 4   | Data Visualization and EDA        |         | L3  | LL 4          | Test 2 |
+| 5  | Week 5   | Excel                             | PM2     | L4  | LL 5          |        |
+| 6  | Week 6   | Tableau and Wrap-up               |         | L5  | LL 6          | Test 3 |
+| 7  | Week 7   | GitHub, Terminal, and Jupyter Lab | PM3     | L6  | LL 7          |        |
+| 8  | Week 8   | Programming in Python I           |         | L7  | LL 8          | Test 4 |
+| 9  | Week 9   | Programming in Python II          | PM4     | L8  | LL 9          |        |
+| 10 | Week 10  | Data Visualization and EDA        |         | L9  | LL 10         | Test 5 |
+| 11 | Week 11  | Excel                             | PM5     | L10 | LL 11         |        |
+| 12 | Week 12  | Tableau and Wrap-up               |         |     | LL 12         |        |
+| 13 | Week 13  | Tableau and Wrap-up               | PM6     |     |               |        |
+
+
+
+
+
+
