@@ -1,15 +1,8 @@
 # DATA 100 Course Syllabus
 
-**DATA 100 001**
+**DATA 100 001 - Introduction to Data Science in Python (3)**
 
-**Introduction to Scientific Computing in Python (3)**
-
-OR
-
-**Introduction to Data Science in Python (3)**
-
-- 2022 Winter Term 1
-- 2022 Winter Term 2
+Alternate Title: **Introduction to Scientific Computing in Python (3)**
 
 ## Course Description
 
