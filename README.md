@@ -3,11 +3,13 @@
 **DATA 100 001**
 
 **Introduction to Scientific Computing in Python (3)**
+
 OR
+
 **Introduction to Data Science in Python (3)**
 
-2022 Winter Term 1
-2022 Winter Term 2
+- 2022 Winter Term 1
+- 2022 Winter Term 2
 
 ## Course Description
 
@@ -48,9 +50,10 @@ N.B. I would like to petition for this course not to have a final exam, as it do
 ### Passing Criteria
 
 All students must satisfy ALL conditions to pass the course:
-    1. Pass the Labs with an average grade of at least 50%, with no more than 3 missed labs.
-    1. Pass the Tests with an average grade of at least 50%.
-    1. Pass the Project with a grade of at least 40%.
+
+1. Pass the Labs with an average grade of at least 50%, with no more than 3 missed labs.
+1. Pass the Tests with an average grade of at least 50%.
+1. Pass the Project with a grade of at least 40%.
 
 If a student does not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
 
