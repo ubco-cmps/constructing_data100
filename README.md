@@ -13,7 +13,7 @@ OR
 
 ## Course Description
 
-DATA 100 (3) Introduction to Scientific Computing in Python (3)
+DATA 100 (3) Introduction to Data Science in Python (3)
 
 Fundamentals of data science with an emphasis on computational thinking, testing, debugging, and working with data sets. Real-world applications from all disciplines including the sciences, engineering, humanities, sociology, economics, political sciences, psychology, and others. No prior computing background is required.
 
