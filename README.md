@@ -45,15 +45,16 @@ Upon successful completion of this course, students will be able to:
 | Tests          | 30%    | Bi-weekly       |
 | ~~Final Exam~~ | ~~0%~~ | ~~Exam Period~~ |
 
-N.B. I would like to petition for this course not to have a final exam, as it does not make sense pedagogically for this type of course. I would prefer to distribute the Final Exam weighting to Labs, and the project as shown above.
+**N.B. I would like to petition for this course not to have a final exam, as it does not make sense pedagogically for this type of course. I would prefer to distribute the Final Exam weighting to Labs, and the project as shown above.**
 
 ### Passing Criteria
 
 All students must satisfy ALL conditions to pass the course:
 
-1. Pass the Labs with an average grade of at least 50%, with no more than 3 missed labs.
+1. Pass the Labs with an average grade of at least 50%, with no more than 4 missed labs.
 1. Pass the Tests with an average grade of at least 50%.
 1. Pass the Project with a grade of at least 40%.
+1. Pass the Course overall with a grade of at least 50%.
 
 If a student does not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
 
