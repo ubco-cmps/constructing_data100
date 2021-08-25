@@ -63,24 +63,23 @@ Portions of the following (open source) textbooks will be assigned as reading:
 
 Eventually, an open textbook will be developed using open resources.
 
-
 ## Schedule
 
-| Wk | Starting | Topics                            | Project | Lab | Learning Logs | Tests  |
-|----|----------|-----------------------------------|---------|-----|---------------|--------|
-| 1  | Week 1   | GitHub, Terminal, and Jupyter Lab |         |     | LL 1          |        |
-| 2  | Week 2   | Programming in Python I           |         | L1  | LL 2          | Test 1 |
-| 3  | Week 3   | Programming in Python II          | PM1     | L2  | LL 3          |        |
-| 4  | Week 4   | Data Visualization and EDA        |         | L3  | LL 4          | Test 2 |
-| 5  | Week 5   | Excel                             | PM2     | L4  | LL 5          |        |
-| 6  | Week 6   | Tableau and Wrap-up               |         | L5  | LL 6          | Test 3 |
-| 7  | Week 7   | GitHub, Terminal, and Jupyter Lab | PM3     | L6  | LL 7          |        |
-| 8  | Week 8   | Programming in Python I           |         | L7  | LL 8          | Test 4 |
-| 9  | Week 9   | Programming in Python II          | PM4     | L8  | LL 9          |        |
-| 10 | Week 10  | Data Visualization and EDA        |         | L9  | LL 10         | Test 5 |
-| 11 | Week 11  | Excel                             | PM5     | L10 | LL 11         |        |
-| 12 | Week 12  | Tableau and Wrap-up               |         |     | LL 12         |        |
-| 13 | Week 13  | Tableau and Wrap-up               | PM6     |     |               |        |
+| Wk | Starting | Topics                                           | Project | Lab | Learning Logs | Tests  |
+|----|----------|--------------------------------------------------|---------|-----|---------------|--------|
+| 1  | Week 1   | Introduction to Data Science and your Computer   |         |     | LL 1          |        |
+| 2  | Week 2   | Navigating the Command Line                      |         | L1  | LL 2          | Test 1 |
+| 3  | Week 3   | Introduction to Jupyter Notebook                 | PM1     | L2  | LL 3          |        |
+| 4  | Week 4   | Version Control with Git                         |         | L3  | LL 4          | Test 2 |
+| 5  | Week 5   | Introduction to computation in Python with numpy | PM2     | L4  | LL 5          |        |
+| 6  | Week 6   | Loading and working with data                    |         | L5  | LL 6          | Test 3 |
+| 7  | Week 7   | Data Types: Lists, dictionaries, sets, tuples    | PM3     | L6  |               |        |
+| 8  | Week 8   | Control flow: conditionals                       |         | L7  | LL 7          | Test 4 |
+| 9  | Week 9   | Loops and Functions                              | PM4     | L8  | LL 8          |        |
+| 10 | Week 10  | Data analysis with scipy                         |         | L9  | LL 9          | Test 5 |
+| 11 | Week 11  | Data visualization                               | PM5     | L10 | LL 10         |        |
+| 12 | Week 12  | Testing and the git flow                         |         |     | LL 11         |        |
+| 13 | Week 13  | Reproducible data analyses                       | PM6     |     | LL 12         |        |
 
 
 
