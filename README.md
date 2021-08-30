@@ -18,15 +18,23 @@ Upon successful completion of this course, students will be able to:
 
 1. construct workflows to load, process, clean, and analyze data.
 1. develop the ability to "think computationally" using programming principles.
-1. design and develop strategies for solving data science problems. 
 1. appraise the quality of data and assess its limitations in answering questions.
 1. identify and use different data types to solve data science problems.
 1. practice the creation of loops, conditionals, and functions to analyze data.
 1. understand the role of testing to write sustainable code.
 1. understand the role of version control to create reproducible reports and sustainable analyses.
 1. apply the skills and techniques in this course to generate reproducible reports.
+
+### Consider removing these learning outcome:
+
+1. understand the role of data in our society and explain how to use data to answer questions. 
+    - Comment: Too much detail, and too much to expect in a first year course
+
 1. examine the ethics of conducting data science analyses responsibly.
-1. understand the role of data in our society and explain how to use data to answer questions.
+    - Comment: Important but too ambitous for a first year course?
+
+1. design and develop strategies for solving data science problems.
+    - Comment: Adjust this learning outcome so it is appropriate for a 1st year course.
 
 ## Assessment
 
