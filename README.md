@@ -25,15 +25,15 @@ Upon successful completion of this course, students will be able to:
 1. understand the role of version control to create reproducible reports and sustainable analyses.
 1. apply the skills and techniques in this course to generate reproducible reports.
 
-### Consider removing these learning outcome:
+### Consider removing these learning outcomes:
 
-1. understand the role of data in our society and explain how to use data to answer questions. 
+- understand the role of data in our society and explain how to use data to answer questions. 
     - Comment: Too much detail, and too much to expect in a first year course
 
-1. examine the ethics of conducting data science analyses responsibly.
+- examine the ethics of conducting data science analyses responsibly.
     - Comment: Important but too ambitous for a first year course?
 
-1. design and develop strategies for solving data science problems.
+- design and develop strategies for solving data science problems.
     - Comment: Adjust this learning outcome so it is appropriate for a 1st year course.
 
 ## Assessment
