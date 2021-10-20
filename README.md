@@ -44,9 +44,6 @@ Upon successful completion of this course, students will be able to:
 | Labs           | 30%    | Weekly          |
 | Project        | 30%    | Weekly          |
 | Tests          | 30%    | Bi-weekly       |
-| ~~Final Exam~~ | ~~0%~~ | ~~Exam Period~~ |
-
-**N.B. I would like to petition for this course not to have a final exam, as it does not make sense pedagogically for this type of course. I would prefer to distribute the Final Exam weighting to Labs, and the project as shown above.**
 
 ### Passing Criteria
 
@@ -72,22 +69,16 @@ Eventually, an open textbook will be developed using open resources.
 
 | Wk | Starting | Topics                                           | Project | Lab | Learning Logs | Tests  |
 |----|----------|--------------------------------------------------|---------|-----|---------------|--------|
-| 1  | Week 1   | Introduction to Data Science and your Computer   |         |     | LL 1          |        |
-| 2  | Week 2   | Navigating the Command Line                      |         | L1  | LL 2          | Test 1 |
-| 3  | Week 3   | Introduction to Jupyter Notebook                 | PM1     | L2  | LL 3          |        |
-| 4  | Week 4   | Version Control with Git                         |         | L3  | LL 4          | Test 2 |
-| 5  | Week 5   | Introduction to computation in Python with numpy | PM2     | L4  | LL 5          |        |
-| 6  | Week 6   | Loading and working with data                    |         | L5  | LL 6          | Test 3 |
-| 7  | Week 7   | Data Types: Lists, dictionaries, sets, tuples    | PM3     | L6  |               |        |
-| 8  | Week 8   | Control flow: conditionals                       |         | L7  | LL 7          | Test 4 |
-| 9  | Week 9   | Loops and Functions                              | PM4     | L8  | LL 8          |        |
-| 10 | Week 10  | Data analysis with scipy                         |         | L9  | LL 9          | Test 5 |
-| 11 | Week 11  | Data visualization                               | PM5     | L10 | LL 10         |        |
-| 12 | Week 12  | Testing and the git flow                         |         |     | LL 11         |        |
-| 13 | Week 13  | Reproducible data analyses                       | PM6     |     | LL 12         |        |
-
-
-
-
-
-
+| 1  | Week 1   | Introduction to Data Science                     |         |     | LL 1          |        |
+| 2  | Week 2   | Terminal and Jupyter Notebook                    |         | L1  | LL 2          | Test 1 |
+| 3  | Week 3   | Version Control with Git                         | PM1     | L2  | LL 3          |        |
+| 4  | Week 4   | Introduction to Python                           |         | L3  | LL 4          | Test 2 |
+| 5  | Week 5   | Loading and working with data                            | PM2     | L4  | LL 5          |        |
+| 6  | Week 6   | Data Types: Lists and Dictionaries                    |         | L5  | LL 6          | Test 3 |
+| 7  | Week 7   | Computation with `numpy`    | PM3     | L6  |               |        |
+| 8  | Week 8   | Controlling the flow                      |         | L7  | LL 7          | Test 4 |
+| 9  | Week 9   | Organizing your code                              | PM4     | L8  | LL 8          |        |
+| 10 | Week 10  | Objects in Python                |         | L9  | LL 9          | Test 5 |
+| 11 | Week 11  | Data analysis with `scipy`                         | PM5     | L10 | LL 10         |        |
+| 12 | Week 12  | Data visualization with `altair`                              |         |     | LL 11         |        |
+| 13 | Week 13  | Releases and Reproducibility                         | PM6     |     | LL 12         |        |
