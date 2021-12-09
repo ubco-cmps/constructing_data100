@@ -6,7 +6,7 @@
 
 DATA 100 (3) Introduction to Data Science in Python (3)
 
-Fundamentals of data science with an emphasis on computing, problem solving, testing, debugging, and working with data sets. Real-world applications from disciplines in the sciences, humanities, medicine, engineering, social sciences, business and others. No prior computing background is required.
+Fundamentals of data science and programming with an emphasis on problem solving, testing, debugging, and working with data sets. Real-world applications from disciplines in the sciences, humanities, medicine, engineering, social sciences, business and others. No prior computing background is required.
 
 **Prerequisite:** None
 
@@ -29,7 +29,7 @@ Upon successful completion of this course, students will be able to:
 
 | Item           | Weight | Frequency                        |
 |----------------|--------|----------------------------------|
-| Learning Logs  | 5%    | Weekly                           |
+| Learning Logs  | 5%     | Weekly                           |
 | Labs           | 25%    | Weekly                           |
 | Project        | 25%    | Weekly                           |
 | Tests          | 25%    | Bi-weekly                        |

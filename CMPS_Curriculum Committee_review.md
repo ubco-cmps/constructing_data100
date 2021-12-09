@@ -1,7 +1,9 @@
 - What is the pedagogical rationale for this course being cross-listed as a COSC course?
 
-    - Primary reason to cross-list as COSC is to give students in the COSC BA one more course to take.
-    - Side benefit: COSC (if we choose) can also require COSC 100 as part of the COSC major/minor/honours, this discussion deferred to later as it requires more thought
+	- The course teaches programming from a data science lens and examples used are based on data. The course is also an introduction to programming in Python, so it serves as a COSC course and would be of interest to CS majors and students potentially considering a CS major (especially BA students).
+    - To better reflect those facts, the calendar description has been revised to (changes in bold):
+
+		> Fundamentals of data science **and programming** with an emphasis on **problem solving, testing, debugging, and working with data sets**. Real-world applications from disciplines in the sciences, humanities, medicine, engineering, social sciences, business and others. No prior computing background is required.
 
 - Can this course be used to replace COSC 111 for courses with COSC 111 as a prerequisite? Or be used as a prerequisite to COSC 123?
 
@@ -16,7 +18,7 @@
 
 	- Interesting, the operating definition of computational thinking we had used included the following competencies: data analysis, pattern recognition, algorithm design, data visualization, debugging/error detection, and problem solving (see attached paper).
 	- However, in light of the potential for confusion, we have replaced the learning outcome that mentions "thinking computationally" with: "develop the ability to use programming principles to solve problems, conduct data analyses, create data visualizations, recognize patterns in data, and detect errors in code."
-	- Similarly, the calendar description has been updated to remove "computational thinking" and replace it with "...an emphasis on computing, problem solving, ..."
+	- Similarly, the calendar description has been updated to remove "computational thinking" and replace it with "...an emphasis on problem solving, ..."
 
 - In comparison to the other course components, what makes the Project component so special that students are considered to pass the course with 40%?
 
