@@ -6,7 +6,7 @@
 
 DATA 100 (3) Introduction to Data Science in Python (3)
 
-Fundamentals of data science with an emphasis on computational thinking, testing, debugging, and working with data sets. Real-world applications from disciplines in the sciences, humanities, medicine, engineering, social sciences, business and others. No prior computing background is required.
+Fundamentals of data science with an emphasis on computing, problem solving, testing, debugging, and working with data sets. Real-world applications from disciplines in the sciences, humanities, medicine, engineering, social sciences, business and others. No prior computing background is required.
 
 **Prerequisite:** None
 
@@ -16,7 +16,7 @@ Fundamentals of data science with an emphasis on computational thinking, testing
 
 Upon successful completion of this course, students will be able to:
 
-1. develop the ability to "think computationally" using programming principles.
+1. develop the ability to use programming principles to solve problems, conduct data analyses, create data visualizations, recognize patterns in data, and detect errors in code.
 1. practice the creation of loops, conditionals, and functions to analyze data.
 1. identify and use different data types to accomplish a variety of data science tasks.
 1. apply common workflows to load, process, clean, and analyze data.
@@ -27,12 +27,13 @@ Upon successful completion of this course, students will be able to:
 
 ## Assessment
 
-| Item           | Weight | Frequency       |
-|----------------|--------|-----------------|
-| Learning Logs  | 10%    | Weekly          |
-| Labs           | 30%    | Weekly          |
-| Project        | 30%    | Weekly          |
-| Tests          | 30%    | Bi-weekly       |
+| Item           | Weight | Frequency                        |
+|----------------|--------|----------------------------------|
+| Learning Logs  | 5%    | Weekly                           |
+| Labs           | 25%    | Weekly                           |
+| Project        | 25%    | Weekly                           |
+| Tests          | 25%    | Bi-weekly                        |
+| Final Exam     | 20%    | Scheduled during the exam period |
 
 ### Passing Criteria
 
@@ -40,7 +41,8 @@ All students must satisfy ALL conditions to pass the course:
 
 1. Pass the Labs with an average grade of at least 50%, with no more than 4 missed labs.
 1. Pass the Tests with an average grade of at least 50%.
-1. Pass the Project with a grade of at least 40%.
+1. Pass the Project with a grade of at least 50%.
+1. Pass the Final Exam with a grade of at least 50%
 1. Pass the Course overall with a grade of at least 50%.
 
 If a student does not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 in the course.
