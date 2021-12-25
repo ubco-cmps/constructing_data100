@@ -40,3 +40,6 @@ https://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,89,1008
 	- The plan for the project was for it to be heavily scaffolded and to give students a series of pre-approved datasets, and pre-approved questions that are manageable with their current skillset (visualizing trends and exploring data). The "Project" has been renamed to "Guided Project" to also make this a little clearer.
 
 	- There will be no statistical components to the data analysis done in this course, and we will only go as far as the "Exploratory Data Analysis" (EDA) section deferring "real" data analysis to future courses where students have more background (for e.g., the math and statistics required).
+
+
+[Here is a difference of the new file from the original](https://github.com/ubco-cmps/constructing_data100/compare/bc55e89..56df2ab?diff=unified&short_path=b335630#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5).
