@@ -1,3 +1,5 @@
+# CMPS Curriculum Committee Review and Responses
+
 - What is the pedagogical rationale for this course being cross-listed as a COSC course?
 
 	- The course teaches programming from a data science lens and examples used are based on data. The course is also an introduction to programming in Python, so it serves as a COSC course and would be of interest to CS majors and students potentially considering a CS major (especially BA students).
@@ -30,3 +32,11 @@ https://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,89,1008
 
 	- One of the Data 100 committee members has had preliminary conversations with the Associate Dean for Teaching, Learning and Curriculum (Trudy Kavanagh) to apply for an exemption for Data 100 so it does not have a final exam. Though the application is underway, the process is lengthy and arduous with no guarantee of success.
 	- Consequently, a final exam weighted at 20% has been added to the course, other assessment weights adjusted accordingly, and a requirement added that students must pass the final exam with a score of at least 50%
+
+- As a first year course, students may be very naive about concepts of data analysis. The course should focus more on mastering how to use the python language itself. From teaching first year students, I find that students need to learn data analysis step by step. The way that the course is set up sounds closer to a third or fourth year course because the examples sound quite advanced. For example, to understand stock market data, one needs to have some background in time series. Population growth requires some knowledge of differential equations. Without such background, the students might get the impression that superficial treatment of the data is good enough. 
+
+	- This is a great point; The learning outcomes have also been cleaned up to make it clearer that students will not be doing any advanced data analyses, and to re-emphasize fundamental python programming skills. This learning outcome has also been added (as the first LO): "use the Python programming language to complete everyday tasks."
+
+	- The plan for the project was for it to be heavily scaffolded and to give students a series of pre-approved datasets, and pre-approved questions that are manageable with their current skillset (visualizing trends and exploring data). The "Project" has been renamed to "Guided Project" to also make this a little clearer.
+
+	- There will be no statistical components to the data analysis done in this course, and we will only go as far as the "Exploratory Data Analysis" (EDA) section deferring "real" data analysis to future courses where students have more background (for e.g., the math and statistics required).
